@@ -40,7 +40,7 @@ import EventEmitter from "events";
  * @typedef {import('../uv.js').UVConfig} UVConfig
  */
 
-class Ultraviolet {
+class IkkobProxy {
 	/**
 	 *
 	 * @param {UVConfig} [options]
